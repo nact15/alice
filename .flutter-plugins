@@ -1,5 +1,4 @@
 # This is a generated file; do not edit or check into version control.
-better_player=/home/anastasiaya/.pub-cache/hosted/pub.dartlang.org/better_player-0.0.83/
 flutter_local_notifications=/home/anastasiaya/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications-9.6.1/
 open_file=/home/anastasiaya/.pub-cache/hosted/pub.dartlang.org/open_file-3.2.1/
 package_info_plus=/home/anastasiaya/.pub-cache/hosted/pub.dartlang.org/package_info_plus-1.4.2/
@@ -19,6 +18,3 @@ permission_handler_apple=/home/anastasiaya/.pub-cache/hosted/pub.dartlang.org/pe
 permission_handler_windows=/home/anastasiaya/.pub-cache/hosted/pub.dartlang.org/permission_handler_windows-0.1.0/
 sensors=/home/anastasiaya/.pub-cache/hosted/pub.dartlang.org/sensors-2.0.3/
 share=/home/anastasiaya/.pub-cache/hosted/pub.dartlang.org/share-2.0.4/
-wakelock=/home/anastasiaya/.pub-cache/hosted/pub.dartlang.org/wakelock-0.6.1+2/
-wakelock_macos=/home/anastasiaya/.pub-cache/hosted/pub.dartlang.org/wakelock_macos-0.4.0/
-wakelock_web=/home/anastasiaya/.pub-cache/hosted/pub.dartlang.org/wakelock_web-0.4.0/
